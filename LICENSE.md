@@ -1,4 +1,4 @@
-# 
+# updated Trading Bot for Polymarket - risk-management and liquidity-provision offers the most advanced Polymarket trading-bot, with risk-management and liquidity-provision. Ideal
 
 
 
